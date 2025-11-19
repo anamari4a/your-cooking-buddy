@@ -2,7 +2,7 @@
 
 Submitted by: **Ana Maria Carrillo**
 
-This web app: **Your Cooking Buddy simulates a social media platform where users are able create an account, look up recipes based on ingredient or a dish they have in mind, save the recipe to their account and create a post reviewing the recipe they tried out. The app allows multiple user to log in, view and interact with each other's post by allowing them to comment and upvote if logged in. The application allows users that are not logged in to view posts and search recipes but does not allow them to create a post/comment or upvote. Users are also able to log out. This project was created with React, Supabase for backend, TheMealDB Free API and Tailwind.**
+This web app: **Your Cooking Buddy simulates a social media platform where users are able create an account, look up recipes based on ingredient or a dish they have in mind, save the recipe to their account and create a post reviewing the recipe they tried out. The app allows multiple user to log in, view and interact with each other's post by allowing them to comment and upvote if logged in. The application allows users that are not logged in to view posts and search recipes but does not allow them to create a post/comment or upvote. The application allows users to make a post ONLY on recipes they have saved on their account. Users are also able to log out. This project was created with React, Supabase for backend, TheMealDB Free API and Tailwind.**
 
 Time spent: **28** hours spent in total
 
