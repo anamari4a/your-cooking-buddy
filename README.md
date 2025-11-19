@@ -63,6 +63,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+![your-cooking-buddy](https://github.com/user-attachments/assets/3ddc1eb5-871d-4393-b237-6d48c92c6c82)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
