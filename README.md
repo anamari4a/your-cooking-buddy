@@ -1,4 +1,4 @@
-# Web Development Final Project - *Your Cooking Buddy*
+*Your Cooking Buddy*
 
 Submitted by: **Ana Maria Carrillo**
 
